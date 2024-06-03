@@ -38,14 +38,14 @@ npm install
 | Properti | value |
 | ------ | ------ |
 | PORT | 8080 |
-| DB_PORT | <customize with your database client port> |
-| DB_CLIENT | <customize with your database client> |
-| DB_HOST | <if you want to run on local then you can use localhost or adjust to the host you want to use.> |
-| DB_USERNAME | <your database username> |
-| DB_PASSWORD | <your database password> |
-| DB_DATABASE | <your database name> |
-| ACCES_TOKEN_KEY | <your secret key for access token> |
-| REFRESH_TOKEN_KEY | <your secret key for refresh token> |
+| DB_PORT | (customize with your database client port) |
+| DB_CLIENT | (customize with your database client) |
+| DB_HOST | (if you want to run on local then you can use localhost or adjust to the host you want to use.) |
+| DB_USERNAME | (your database username) |
+| DB_PASSWORD | (your database password) |
+| DB_DATABASE | (your database name) |
+| ACCES_TOKEN_KEY | (your secret key for access token) |
+| REFRESH_TOKEN_KEY | (your secret key for refresh token) |
 
 3. Open XAMPP console and then start Apache and MySql.
 4. Open MySql admin and login to your MySql account (default login can enter username:'root' & password:'Just leave it blank')
